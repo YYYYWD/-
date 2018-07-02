@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: libs/poi-ooxml-3.8-20120326.jar libs/poi-examples-3.8-2012
+ 0326.jar libs/swingx-core-1.6.2.jar libs/poi-excelant-3.8-20120326.ja
+ r libs/jfreechart-1.0.19-demo.jar libs/datepicker.jar libs/poi-3.8-20
+ 120326.jar libs/dom4j-1.6.1.jar libs/poi-ooxml-schemas-3.8-20120326.j
+ ar libs/jxl.jar libs/poi.jar libs/8535377.zip libs/sqljdbc42.jar libs
+ /jaxb-api-2.3.0.jar libs/jaxb-core-2.3.0.jar libs/jaxb-impl-2.3.0.jar
+  libs/jfreechart-1.0.19.zip libs/jfreechart-master.zip libs/jfreechar
+ t-1.0.13.jar.zip libs/javax.activation-1.2.0.jar libs/poi-scratchpad-
+ 3.8-20120326.jar libs/jfreechart-1.0.13.jar libs/xmlbeans-2.3.0.jar
+Main-Class: LoginUI
+
